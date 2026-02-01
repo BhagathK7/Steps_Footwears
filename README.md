@@ -246,7 +246,6 @@ Step/
 - **Dark Mode First**: Full dark/light theme support
 - **Accessibility**: Proper contrast ratios and touch targets
 - **Mobile-First**: Optimized for iOS and Android
-
 ---
 
 ## 📄 License
