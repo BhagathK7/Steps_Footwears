@@ -260,5 +260,3 @@ This project is licensed under the MIT License.
 Contributions are welcome! Please open an issue or submit a pull request.
 
 ---
-
-**Built with ❤️ using React Native & Expo**
